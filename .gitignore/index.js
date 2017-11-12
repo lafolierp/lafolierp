@@ -10,3 +10,7 @@ client.on('ready', () => {
     console.log("========================\n[!]ANTARES DISPO");
     client.user.setGame(client.guilds.size.toString());
     });
+
+
+
+client.login(token);
