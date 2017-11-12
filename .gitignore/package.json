@@ -1,0 +1,8 @@
+{
+    "email" : "",
+    "password" : "",
+	"tokenID" : "",
+	"ownerID" : "",
+	"BindToChannel" : "",
+	"AutoJoinVoice" : ""
+}
