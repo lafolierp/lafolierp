@@ -2,7 +2,7 @@ const discord = require('discord.js');
 const ytdl = require('ytdl-core');
 const fs = require('fs');
 const client = new discord.Client();
-const token = "MzU5MDE5NDMxNDgyODg0MDk2.DOpTUw.jZH_b7_biEPMQK6zII3UZ0IfSqo";
+const token = "";
 
 //Lancement du bot
 client.on('ready', () => {
